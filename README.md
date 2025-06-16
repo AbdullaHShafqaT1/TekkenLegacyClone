@@ -20,6 +20,7 @@ ArenaClash3D is a 3D fighting game developed in Unity, inspired by the mechanics
 
 - **Movement:** `W`, `A`, `S`, `D`
 - **Attacks:** `1`, `2`, `3`, `4`
+- **Dodge:** `E`
 
 ## 🛠️ Requirements
 
@@ -34,5 +35,4 @@ ArenaClash3D is a 3D fighting game developed in Unity, inspired by the mechanics
 3. Choose the folder containing this game.
 4. Run the `MainScene` from the Scenes folder.
 
-## 📂 Project Structure
 
